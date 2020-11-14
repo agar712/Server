@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -cp "bin/quboScanner.jar:lib/*" jcrypt.Main "$@"
